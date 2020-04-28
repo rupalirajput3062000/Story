@@ -1,2 +1,7 @@
 I have learned some of commands of git .
 this is also form another branch.
+
+- Angular
+- React
+- Vue
+- Material Design
